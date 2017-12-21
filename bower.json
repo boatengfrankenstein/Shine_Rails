@@ -1,0 +1,21 @@
+{
+  "name": "bower",
+  "description": "",
+  "main": "",
+  "authors": [
+    "boatengfrankenstein <boatengfrankenstein@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "moment": "^2.20.0",
+   "bootstrap-sass": "~3.0.0"
+  }
+}
